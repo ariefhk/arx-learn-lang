@@ -1,6 +1,6 @@
 # Belajar Bahasa Pemrograman
 
-## 30 Days of JS
+## JavaScript
 1. [30 Days Of Js 1](https://github.com/ariefhk/arxl-30-days-of-Js)
 2. [30 Days Of Js 2](https://github.com/ariefhk/arx-30-days-of-javascript)
 
